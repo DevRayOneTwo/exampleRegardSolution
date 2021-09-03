@@ -1,0 +1,6 @@
+/.idea
+/target
+/screenshots
+*.png
+*.log
+*.class
